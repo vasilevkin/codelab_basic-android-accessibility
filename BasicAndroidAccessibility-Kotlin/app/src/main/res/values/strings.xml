@@ -27,7 +27,6 @@
     <!-- These three strings are currently unused but are added to the code during the codelab -->
     <string name="play">Play</string>
     <string name="pause">Pause</string>
-    <string name="share">Share</string>
 
     <string name="which_android_version">Which Android version brought you Material Design?</string>
     <string name="lollipop">Lollipop</string>
@@ -62,4 +61,5 @@
     </string>
 
     <string name="fix_low_contrast">Fix low contrast</string>
+    <string name="share">Share</string>
 </resources>
